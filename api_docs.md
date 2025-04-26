@@ -10,8 +10,3 @@
 ## API Endpoints
 
 ### `create_airline()` -> **POST/airlines**:
-
-- Creates a new airline in the database.
-  - **Request Body**: JSON object with `name`, `iata_code`, and `icao_code` fields.
-  - **Response**: Returns the created airline object with its ID.
-- Creates an airline object given
